@@ -6,9 +6,9 @@ This is a fork of the [BaSiC backgound correction pipeline](https://github.com/Q
 ```Matlab
 source_dir = '/DATA_NAME/'; % here you need to have rawData directory with all your data and a Mosaic.txt
 
-addpath(genpath('FULL_PATH/StitchIt/code/')); % add path of the StitchIt(https://github.com/BaselLaserMouse/StitchIt).
+addpath(genpath('FULL_PATH/StitchIt/code/')); % add path to the StitchIt(https://github.com/BaselLaserMouse/StitchIt).
 
-addpath(genpath('FULL_PATH/cidre/')); % add path of the CIDRE(https://github.com/Fouga/cidre) 
+addpath(genpath('FULL_PATH/BaSiC/')); % add path to the BaSiC (https://github.com/Fouga/BaSiC) 
 
 cd (source_dir);
 
