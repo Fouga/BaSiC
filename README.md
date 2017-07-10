@@ -1,6 +1,6 @@
 # BaSiC
 
-This is a fork of the [BaSiC backgound correction pipeline](https://github.com/QSCD/BaSiC). To run the pipeline you need to clone [this repository](https://github.com/Fouga/BaSiC) and [StitchIt](https://github.com/Fouga/StitchIt). 
+This is a fork of the [BaSiC backgound correction pipeline](https://github.com/QSCD/BaSiC). To run the pipeline for 2 photon microscopy Tissue Vision data, you need to clone [this repository](https://github.com/Fouga/BaSiC) and [StitchIt](https://github.com/Fouga/StitchIt). 
 
 # Example
 ```Matlab
